@@ -13,8 +13,8 @@ This Terraform project provisions an SFTP server on AWS using EC2 with Amazon Li
 
 Clone the Repository
 ```
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/saavedra/sftp-terraform.git
+cd sftp-terraform
 ```
 
 Generate an SSH Key Pair Generate an SSH key pair if you don't already have one:
