@@ -34,10 +34,11 @@ Save the path to your public key for later use.
 
 Initialize Terraform Run the following command to initialize Terraform and download the required providers:
 
+```
 terraform init
 terraform plan
 terraform apply
-
+```
 
 Fill out variables as prompted. Terraform will output the public IP address of the EC2 instance.
 
